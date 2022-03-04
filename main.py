@@ -1,4 +1,4 @@
-#Calculates how much to tip per person
+#Calculates how much to pay with tip per person
 
 bill = input('How much was the bill? $')
 tip = input ("What percentage would you like to give? 10, 12, or 15? ")
